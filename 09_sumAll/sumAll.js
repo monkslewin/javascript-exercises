@@ -1,6 +1,6 @@
-const sumAll = function() {
-
-};
+const sumAll = (a, b) => {
+    
+}
 
 // Do not edit below this line
 module.exports = sumAll;
